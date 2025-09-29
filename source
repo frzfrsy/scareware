@@ -1,5 +1,7 @@
 --[[ 
-Open source for beginner who wants to try to make their own hub. u gays can look for tab system thing
+Open source for beginner who wants to try to make their own hub. u gays can look for tab system thing.
+
+#fakeyouuuu
 ]]
 
 local DEBUGGG = game.CoreGui:FindFirstChild("ScareWare")
